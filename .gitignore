@@ -1,0 +1,4 @@
+# Chặn toàn bộ file trong thư mục models
+models/
+# Hoặc chặn mọi file có đuôi .pth
+*.pth
