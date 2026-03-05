@@ -1,4 +1,5 @@
 # Chặn toàn bộ file trong thư mục models
+uploads/
 models/
 # Hoặc chặn mọi file có đuôi .pth
 *.pth
