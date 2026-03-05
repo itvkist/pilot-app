@@ -1,5 +1,9 @@
-# Chặn toàn bộ file trong thư mục models
+# Ignore all the unnecessary files and folders
+.vscode/
 uploads/
 models/
+results/
+__pycache__/
+
 # Hoặc chặn mọi file có đuôi .pth
 *.pth
